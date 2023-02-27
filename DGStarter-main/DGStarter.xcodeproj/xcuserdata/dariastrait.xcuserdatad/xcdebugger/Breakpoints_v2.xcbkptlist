@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CEA87965-417C-4607-9C16-EC5C2B6E63E0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF062347-48A2-4AD2-B6F4-369C2F2EF269"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DGStarter/GuesserViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "GuesserViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CF062347-48A2-4AD2-B6F4-369C2F2EF269 - ea1fef105073a105"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.GuesserViewController.gallimimus.getter : DGStarter.Dinosaur"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariastrait/Desktop/DGStarter-main/DGStarter/GuesserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "252">
+               </Location>
+               <Location
+                  uuid = "CF062347-48A2-4AD2-B6F4-369C2F2EF269 - a910bc704f7f1390"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.GuesserViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DGStarter.GuesserViewController"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariastrait/Desktop/DGStarter-main/DGStarter/GuesserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "CF062347-48A2-4AD2-B6F4-369C2F2EF269 - fe3192a637db4b8f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DGStarter.GuesserViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DGStarter.GuesserViewController&gt;"
+                  moduleName = "DGStarter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dariastrait/Desktop/DGStarter-main/DGStarter/GuesserViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
